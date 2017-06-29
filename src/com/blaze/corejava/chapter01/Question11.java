@@ -12,6 +12,6 @@ public class Question11 {
     public static void main(String[] args)throws IOException{
         BufferedReader buffer = new BufferedReader(new InputStreamReader(System.in));
         String readStr = buffer.readLine();
-
+        
     }
 }
